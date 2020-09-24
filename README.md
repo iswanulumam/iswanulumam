@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hello, I'm Iswanul Umam 👋
 
-<!--
-**iswanulumam/iswanulumam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am passionate about Software Engineering and Education. I am a Learning Architect of [Alterra Academy](https://www.linkedin.com/school/alterraacademy/) (ALTA) Coding Bootcamp. Transforming novice talent to professional talent with various roles such as Fullstack Engineer, Backend Engineer, Frontend Engineer, Data Engineer, DevOps Engineer, Quality Engineer. ALTA graduates 100% successful work in the Start-up Industry.
 
-Here are some ideas to get you started:
+Creating a well-aligned curriculum with job needs, Backend Development, Frontend Development, and Deployment. Not focus on code, I concern about the quality aspects of Software Engineering such as System Design, Algorithm, Computational Complexity, Testing, Code Quality.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚡️ Skills and Interests
+`Software Engineering`, `System Design`, `C++`, `JavaScript`, `Node.js`, `React.js`, `Golang`, `Competitive Programming`, `Scrum`, `Team Building`, `Teaching`, `Curriculum Development`, `Coding Bootcamp`
+
+### 📬 Get in Touch
+
+- Facebook: [facebook.com/iswanulumam][facebook]
+- GitHub: [github.com/iswanulumam][github]
+- LinkedIn: [linkedin.com/iswanulumam][linkedin]
+- Twitter: [twitter.com/iswanulumam][twitter]
+- E-mail: iswanul.umam@gmail.com

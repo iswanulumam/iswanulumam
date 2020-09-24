@@ -15,3 +15,5 @@ Creating a well-aligned curriculum with job needs, Backend Development, Frontend
 - Twitter: [twitter.com/iswanulumam](twitter.com/iswanulumam)
 - Hackerrank: [hackerrank.com/iswanulumam](hackerrank.com/iswanulumam)
 - E-mail: iswanul.umam@gmail.com
+[I'm an inline-style link](https://www.google.com)
+[I'm an inline-style link with title](https://www.google.com "Google's Homepage")

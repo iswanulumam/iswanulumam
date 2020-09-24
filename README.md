@@ -9,11 +9,9 @@ Creating a well-aligned curriculum with job needs, Backend Development, Frontend
 
 ### 📬 Get in Touch
 
-- LinkedIn: [linkedin.com/iswanulumam](linkedin.com/iswanulumam)
-- GitHub: [github.com/iswanulumam](github.com/iswanulumam)
-- Facebook: [facebook.com/iswanulumam](facebook.com/iswanulumam)
-- Twitter: [twitter.com/iswanulumam](twitter.com/iswanulumam)
-- Hackerrank: [hackerrank.com/iswanulumam](hackerrank.com/iswanulumam)
+- LinkedIn: [linkedin.com/iswanulumam](https://linkedin.com/iswanulumam)
+- GitHub: [github.com/iswanulumam](https://github.com/iswanulumam)
+- Facebook: [facebook.com/iswanulumam](https://facebook.com/iswanulumam)
+- Twitter: [twitter.com/iswanulumam](https://twitter.com/iswanulumam)
+- Hackerrank: [hackerrank.com/iswanulumam](https://hackerrank.com/iswanulumam)
 - E-mail: iswanul.umam@gmail.com
-[I'm an inline-style link](https://www.google.com)
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")

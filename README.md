@@ -1,6 +1,6 @@
 # Hello, I'm Iswanul Umam 👋
 
-[![Linkedin: iswanulumam](https://img.shields.io/badge/-iswanulumam-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iswanulumam/)](https://www.linkedin.com/in/iswanulumam/)
+[![iswanulumam](https://img.shields.io/badge/-iswanulumam-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iswanulumam/)](https://www.linkedin.com/in/iswanulumam/)
 [![Instagram: iswanulumam](https://img.shields.io/badge/-iswanulumam-DD2A7B?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/iswanulumam/)](https://www.instagram.com/iswanulumam/)
 [![Linkedin: iswanulumam](https://img.shields.io/badge/-iswanulumam-08a0e9?style=flat&logo=Twitter&logoColor=white&link=https://twitter.com/iswanulumam)](https://twitter.com/iswanulumam)
 [![Linkedin: iswanulumam](https://img.shields.io/badge/-iswanulumam-333333?style=flat&logo=Github&logoColor=white&link=https://github.com/iswanulumam)](https://github.com/iswanulumam)

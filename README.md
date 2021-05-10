@@ -12,4 +12,4 @@ I am passionate about Software Engineering and Education. I am a Learning Archit
 Creating a well-aligned curriculum with job needs, Backend Development, Frontend Development, and Deployment. Not focus on code, I concern about the quality aspects of Software Engineering such as System Design, Algorithm, Computational Complexity, Testing, Code Quality.
 
 ### ⚡️ Skills and Interests
-`Software Engineering`, `System Design`, `C++`, `Node.js`, `Golang`, `Scrum`, `Team Building`, `Teaching`, `Curriculum Development`, `Coding Bootcamp`
+`Software Development`, `Golang`, `Node.js`, `C++`, `Scrum`, `Technical Leadership`, `Mentoring`

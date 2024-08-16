@@ -7,10 +7,6 @@
 - 🏆 Accomplishment: helped over 500 junior engineers (backend, frontend, QA, and data engineers) enter the tech industry
 - ⚡ Motto: _Life is not the art of achieving the possible, but the art of attacking the impossible._
 
-### ⚡️ Skills and Interests
-
-`Software Development`, `Golang`, `Node.js`, `C++`, `Scrum`, `Technical Leadership`, `Mentoring`
-
 ### 💻 Technology Specialization
 
 <p align="left">

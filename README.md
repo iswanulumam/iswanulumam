@@ -4,7 +4,7 @@
 
 - 💻 I enjoy coding and helping others learn to code.
 - ❤️ I love technology, coding, software design, and engineering management.
-- 🏆 Accomplishment: helped over 500 junior engineers (backend, frontend, QA, and data engineers) enter the tech industry
+- 🏆 Accomplishment: Helped over 500 junior engineers (backend, frontend, QA, and data engineers) secure jobs in the tech industry.
 - ⚡ Motto: _Life is not the art of achieving the possible, but the art of attacking the impossible._
 
 ### 💻 Technology Specialization

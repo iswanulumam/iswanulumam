@@ -27,12 +27,12 @@
 
 👋 If you are part of the tech community and are looking for a speaker, feel free to contact me through my social media.
 
-<img src="image/gdg.png" 
-alt="DevFest 2023" height="200" />
 <img src="image/dilo.jpeg" 
-alt="DILo" height="200" />
+alt="DILo" height="250" style="margin-left: 20px; margin-right: 20px;"/>
+<img src="image/gdg.png" 
+alt="DevFest 2023" height="250" style="margin-left: 20px; margin-right: 20px;"/>
 <img src="image/tech-corner.png" 
-alt="Tech Corner" height="200" />
+alt="Tech Corner" height="250" style="margin-left: 20px; margin-right: 20px;"/>
 
 ### 📬 Connect With Me
 

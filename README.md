@@ -23,7 +23,18 @@
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" />
 </p>
 
-### 📬 Connect with me:
+### 🎓 Guest Speaker
+
+👋 If you are part of the tech community and are looking for a speaker, feel free to contact me through my social media.
+
+<img src="image/gdg.png" 
+alt="DevFest 2023" width="240" height="180" />
+<img src="image/dilo.jpeg.jpg" 
+alt="DILo" width="240" height="180" />
+<img src="image/tech-corner.png" 
+alt="Tech Corner" width="240" height="180" />
+
+### 📬 Connect With Me
 
 <p align="left">
     <a href="https://www.github.com/iswanulumam" target="_blank" rel="noreferrer">

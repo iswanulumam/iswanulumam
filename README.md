@@ -21,7 +21,7 @@
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" />
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" />
-    <img src="hhttps://camo.githubusercontent.com/fdc3659e1b993f26ce00021627e00518a04bd6d95489a837b6a72f1355c06927/68747470733a2f2f756c73657369666366676d6773766a63757671732e73757061626173652e636f2f73746f726167652f76312f6f626a6563742f7075626c69632f736b696c6c732d69636f6e732f72656163742e7376673f73616e6974697a653d74727565" width="36" height="36" alt="React" />
+    <img src="https://camo.githubusercontent.com/fdc3659e1b993f26ce00021627e00518a04bd6d95489a837b6a72f1355c06927/68747470733a2f2f756c73657369666366676d6773766a63757671732e73757061626173652e636f2f73746f726167652f76312f6f626a6563742f7075626c69632f736b696c6c732d69636f6e732f72656163742e7376673f73616e6974697a653d74727565" width="36" height="36" alt="React" />
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" />
 </p>
 

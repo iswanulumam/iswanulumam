@@ -2,16 +2,28 @@
 
 ## I'm a Full-Stack Engineer, and Coding Instructor
 
-[![iswanulumam](https://img.shields.io/badge/-iswanulumam-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iswanulumam/)](https://www.linkedin.com/in/iswanulumam/)
-[![iswanulumam](https://img.shields.io/badge/-iswanulumam-blue?style=flat&logo=Facebook&logoColor=white&link=https://www.facebook.com/iswanulumam/)](https://www.facebook.com/iswanulumam/)
-[![iswanulumam](https://img.shields.io/badge/-iswanulumam-DD2A7B?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/iswanulumam/)](https://www.instagram.com/iswanulumam/)
-[![iswanulumam](https://img.shields.io/badge/-iswanulumam-08a0e9?style=flat&logo=Twitter&logoColor=white&link=https://twitter.com/iswanulumam)](https://twitter.com/iswanulumam)
-[![iswanulumam](https://img.shields.io/badge/-iswanulumam-333333?style=flat&logo=Github&logoColor=white&link=https://github.com/iswanulumam)](https://github.com/iswanulumam)
-![Profile View](https://visitor-badge.laobi.icu/badge?page_id=iswanulumam.visitor-badge)
+- 💻 I enjoy coding and helping others learn to code.
+- ❤️ I love technology, coding, software design, and engineering management.
+- 🏆 Accomplishment: helped over 500 junior engineers (backend, frontend, QA, and data engineers) enter the tech industry
+- ⚡ Motto: _Life is not the art of achieving the possible, but the art of attacking the impossible._
 
-I am passionate about Software Engineering and Education. I am a Learning Architect of [Alterra Academy](https://www.linkedin.com/school/alterraacademy/) (ALTA) Coding Bootcamp. Transforming novice talent to professional talent with various roles such as Fullstack Engineer, Backend Engineer, Frontend Engineer, Data Engineer, DevOps Engineer, Quality Engineer. ALTA graduates 100% successful work in the Start-up Industry.
+### ⚡️ Skills and Interests
 
-Creating a well-aligned curriculum with job needs, Backend Development, Frontend Development, and Deployment. Not focus on code, I concern about the quality aspects of Software Engineering such as System Design, Algorithm, Computational Complexity, Testing, Code Quality.
+`Software Development`, `Golang`, `Node.js`, `C++`, `Scrum`, `Technical Leadership`, `Mentoring`
+
+### 💻 Technology Specialization
+
+<p align="left">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/mainpublic/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" />
+</p>
 
 ### 📬 Connect with me:
 
@@ -47,7 +59,3 @@ Creating a well-aligned curriculum with job needs, Backend Development, Frontend
 </p>
 
 ---
-
-### ⚡️ Skills and Interests
-
-`Software Development`, `Golang`, `Node.js`, `C++`, `Scrum`, `Technical Leadership`, `Mentoring`

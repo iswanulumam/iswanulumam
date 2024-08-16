@@ -1,5 +1,7 @@
 # Hello and Welcome 👋, I'm Umam
 
+![Alt text](image/cover.jpg)
+
 ## I'm a Full-Stack Engineer, and Coding Instructor
 
 - 💻 I enjoy coding and helping others learn to code.

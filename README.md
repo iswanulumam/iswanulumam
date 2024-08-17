@@ -1,6 +1,6 @@
 # Hello and Welcome 👋, I'm Umam
 
-![Alt text](image/cover.jpg)
+![Alt text](image/cover-new.jpg)
 
 ## I'm a Full-Stack Engineer, and Coding Instructor
 
@@ -27,11 +27,11 @@
 
 👋 If you are part of the tech community and are looking for a speaker, feel free to contact me through my social media.
 
-<img src="image/dilo.jpeg" 
+<img src="image/dilo-new.jpeg" 
 alt="DILo" height="260" />
-<img src="image/gdg.png" 
+<img src="image/gdg-new.png" 
 alt="DevFest 2023" height="260" />
-<img src="image/tech-corner.png" 
+<img src="image/tech-corner-new.png" 
 alt="Tech Corner" height="260" />
 
 ### 📬 Connect With Me

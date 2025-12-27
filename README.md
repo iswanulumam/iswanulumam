@@ -45,4 +45,28 @@ A technical leader, collaborator, and builder of high-impact, scalable systems.
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
+## 📘 Engineering Handbooks (In Progress)
+
+This GitHub is developed as a **structured, production-ready engineering handbook**  
+focused on _what to build_ and _how to build it_ in real-world systems.
+
+### Current Handbooks
+
+- **handbook-go** — Go fundamentals, concurrency, backend patterns, system design
+- **handbook-java** — Java fundamentals, JVM, enterprise patterns, scalability & reliability
+
+### Goals
+
+- Canonical technical reference
+- From fundamentals → advanced topics
+- Language-specific and platform-aware
+
+### Contents
+
+- Concepts
+- Patterns
+- Best practices
+- Practical examples
+- (Optional) Internal playbooks
+
 ---

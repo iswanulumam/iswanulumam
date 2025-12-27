@@ -2,7 +2,7 @@
 
 ![Alt text](image/cover-new.jpg)
 
-## I'm a Full-Stack Engineer, and Coding Instructor
+## I'm a Backend Engineer
 
 - 💻 I enjoy coding and helping others learn to code.
 - ❤️ I love technology, coding, software design, and engineering management.

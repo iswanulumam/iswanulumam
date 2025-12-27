@@ -1,6 +1,10 @@
-# Hello and Welcome 👋, I'm Umam
+# Iswanul Umam 👋
 
-![Alt text](image/cover-new.jpg)
+[![Resume](https://img.shields.io/badge/Resume-FF5722?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1WB59Awy2ry6jg1ZsIQIC32NLE8xwmMd-/view)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iswanulumam/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:iswanul.umam@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/iswanulumam)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/iswanulumam/)
 
 ## I'm a Backend Engineer
 

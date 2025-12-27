@@ -12,6 +12,15 @@ He has hands-on experience designing scalable, reliable systems and has led engi
 
 A technical leader, collaborator, and builder of high-impact, scalable systems.
 
+## 🤝 Community & Leadership
+
+- **Founder & Mentor — Advancing Career in Tech (ACT)**  
+  Built and scaled a tech community to 700+ members through 15+ tech and career webinars.
+
+- **Conference Speaker (2019–2024)**  
+  Speaker at multiple tech events including Google DevFest, Developer Circle by Facebook,  
+  Tech Corner, Gerakan 1000 Startup, and Telkom DILo.
+
 ## 🛠️ Tech Stack
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)

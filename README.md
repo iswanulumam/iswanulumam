@@ -8,8 +8,7 @@
 
 ## 👨‍💻 About Me
 
-Backend Engineer & Technical Leader with **8+ years of experience** designing, building, and scaling  
-**reliable, high-traffic backend systems**, primarily in **financial technology**.
+Backend Engineer & Technical Leader with **8+ years of experience in Software Development**, passionate about designing, building, and **scaling reliable, high-traffic backend systems**, primarily in **financial technology**.
 
 I specialize in:
 

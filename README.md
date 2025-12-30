@@ -8,21 +8,20 @@
 
 ## 👨‍💻 About Me
 
-Backend Engineer & Technical Leader with **8+ years of experience in Software Development**, passionate about designing, building, and **scaling reliable, high-traffic backend systems**, primarily in **financial technology**.
+Software Engineer & Technical Leader with **8+ years of experience in Software Development**, passionate about designing, building, and **scaling reliable, high-traffic backend systems**, primarily in **financial technology**.
 
 I specialize in:
 
-- **Distributed systems & backend architecture**
+- **Backend architecture & distributed systems**
 - **Scalability, reliability, and system design**
 - **Engineering leadership & technical mentorship**
 
-I’ve led engineering teams from **small, fast-moving squads** to organizations of **40+ engineers**,  
-focusing on **engineering excellence, long-term maintainability, and delivery at scale**.
+I’ve led engineering teams from **small squads to groups of 40+ engineers**,
+helping build **maintainable, scalable system**s** and deliver consistently as teams grow.
 
 ## 🤝 Community & Leadership
 
-- **Founder & Mentor — Advancing Career in Tech (ACT)**  
-  Built and scaled a tech community to **700+ members**, hosting **15+ engineering & career webinars**.
+
 
 - **Conference Speaker (2019–2024)**  
   Speaker at:
@@ -32,7 +31,10 @@ focusing on **engineering excellence, long-term maintainability, and delivery at
   - Gerakan 1000 Startup
   - Telkom DILo
 
-Focused on backend engineering, system design, and engineering career growth.
+- **Founder & Mentor — Advancing Career in Tech (ACT)**  
+  Built and scaled a tech community to **700+ members**, hosting **15+ engineering & career webinars**.
+
+Focused on career growth and software engineering.
 
 ## 🛠️ Tech Stack
 
@@ -85,7 +87,7 @@ in **real-world backend and distributed systems**.
 
 ### 🎯 Objectives
 
-- Canonical reference for backend & platform engineers
+- Canonical reference for backend engineers
 - Clear progression from **fundamentals → advanced concepts**
 - Emphasis on **trade-offs, design decisions, and production realities**
 - Language-specific, but **system-thinking driven**

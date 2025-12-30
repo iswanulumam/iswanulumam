@@ -12,7 +12,7 @@ Software Engineer & Technical Leader with **8+ years of experience in Software D
 
 I specialize in:
 
-- **Backend architecture & distributed systems**
+- **Backend & distributed systems**
 - **Scalability, reliability, and system design**
 - **Engineering leadership & technical mentorship**
 

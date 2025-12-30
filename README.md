@@ -19,9 +19,20 @@ I specialize in:
 I’ve led engineering teams from **small squads to groups of 40+ engineers**,
 helping build **maintainable, scalable system**s** and deliver consistently as teams grow.
 
+## 📈 Continuous Learning
+
+I actively invest in **structured learning** to sharpen both **hands-on engineering skills** and **architectural thinking**, including:
+
+- **Fullstack JavaScript Engineering — [Hacktiv8](https://drive.google.com/file/d/1l0SsClyJt0VtWKm_HnFPS2Di77o2jrZa/view)**  
+  Strengthened end-to-end system understanding, from frontend architecture to backend integration.
+
+- **TOGAF Architecture Training — PROXIS**  
+  Deepened perspective on **enterprise architecture**, **system boundaries**, and **long-term technology planning**.
+
+I believe strong engineers keep learning — not to chase trends, but to **build better systems and make better decisions**.
+
+
 ## 🤝 Community & Leadership
-
-
 
 - **Conference Speaker (2019–2024)**  
   Speaker at:

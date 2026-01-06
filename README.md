@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About Me
 
-Software Engineer & Technical Leader with **8+ years of experience in Software Development**, passionate about designing, building, and **scaling reliable, high-traffic backend systems**, primarily in **financial technology**.
+Software Engineer & Technical Leader with **8+ years of experience in Software Development**, passionate about designing, building, and **scaling reliable, high-traffic backend systems**, using **Node.js, Go, Java & React**.
 
 I specialize in:
 

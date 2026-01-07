@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About Me
 
-Engineering Manager, Tech Lead, and Senior Engineer with **8+ years of experience in Software Development**, passionate about designing, building, and **scaling reliable, high-traffic backend systems**, using **Node.js, Go, Java & React**.
+Engineering Manager, Tech Lead, and Senior Engineer with **8+ years of experience in Software Development**, passionate about designing, building, and **scaling reliable, high-traffic backend systems**, using **Node.js, Go, Java & React and currently exploring Rust.**.
 
 I specialize in:
 
